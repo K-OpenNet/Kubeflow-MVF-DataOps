@@ -1,0 +1,5 @@
+<Notes>
+1. Graphics card and corresponding driver should be installed.
+2. We considered NVIDIA graphics cards.
+3. This script enables multi-GPU on a single node, not on multiple nodes.
+4. Since ceph storage uses the infrastructure of our laboratory, the storageclass configuration is different from the usual case.
